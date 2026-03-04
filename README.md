@@ -14,7 +14,7 @@
     <td width="55%" valign="top">
       <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" /> 0x01: System Specifications</h3>
       <p>
-        <b>• ROLE:</b> <code>Senior Backend Developer (Go)</code><br>
+        <b>• ROLE:</b> <code>Backend Developer (Go)</code><br>
         <b>• STATUS:</b> <code>MSc Student @ USPTU (Exp. 2026)</code><br>
         <b>• FOCUS:</b> <code>Highload, Microservices, gRPC, K8s</code><br>
         <b>• LOCATION:</b> <code>Ufa, Russia [54.7388° N, 55.9721° E]</code>
