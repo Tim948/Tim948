@@ -13,15 +13,15 @@
     <td valign="top" width="55%">
       <h3>─── ⚡ System Specs ───</h3>
       <ul>
-        <li>🔭 Сейчас работаю над: <b>Высоконагруженными микросервисами на Go</b></li>
+        <li>🔭 Работаю над: <b>Высоконагруженными микросервисами на Go</b></li>
         <li>🌱 Изучаю: <b>Kubernetes internals и Kafka streams</b></li>
-        <li>🎓 Образование: <b>Магистратура УГНТУ</b> (выпуск 07.2026г.)</li>
-        <li>💬 Ask Me About: <b>Go, PostgreSQL, Redis, gRPC</b></li>
-        <li>😄 Никнейм: <b>Tim948</b></li>
+        <li>🎓 Образование: <b>Магистратура УГНТУ</b> (выпуск 2026г.)</li>
+        <li>💬 Стек: <b>Go, PostgreSQL, Redis, gRPC</b></li>
+        <li>😄 Ник: <b>Tim948</b></li>
       </ul>
     </td>
     <td valign="top" width="45%">
-      <img align="right" height="230" width="100%" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZuejYxdmI2Njh5MW9yY2t0bDJ4YTB3ZmpsZXE5NmR0YWd1dGxyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5oPAn46G6C1N7j54H/giphy.gif"/>
+      <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5oPAn46G6C1N7j54H/giphy.gif"/>
     </td>
   </tr>
 </table>
@@ -31,31 +31,26 @@
 <h3>─── 🛠 Технологический Арсенал ───</h3>
 
 <p align="left">
-  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"/></code>
-  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c-sharp/c-sharp.png"/></code>
-  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/></code>
-  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/></code>
-  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/></code>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
-<p align="left">
-  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/></code>
-  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"/></code>
-  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"/></code>
-  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kafka/kafka.png"/></code>
-  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></code>
-</p>
+# 
 
-# <details open>
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend">📈</g-emoji>
-  <strong>Github Stats & Metrics:</strong>
-</summary>
+<details open>
+<summary>📈 <strong>Github Stats & Metrics:</strong></summary>
 <br/>
-
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tim948&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff&icon_color=00f2ff&count_private=true&include_all_commits=true" />
-  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim948&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tim948&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff&icon_color=00f2ff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim948&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff" />
 </p>
 </details>
 
@@ -65,38 +60,25 @@
 
 #
 
-<h1 align="center">
-  Connect With Me
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" height="35px"/>
-</h1>
+<h1 align="center">Connect With Me</h1>
 
 <p align="center">
-  <br>
   <a href="https://t.me/ElegantCoderByte" target="_blank">
-    <code><img height="70" width="70" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg"/></code>
+    <img height="50" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://vk.com/ne_ydachi" target="_blank">
-    <code><img height="70" width="70" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vk.svg"/></code>
+    <img height="50" src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white"/>
   </a>
-  <a href="#" target="_blank">
-    <code><img height="70" width="70" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"/></code>
+  <a href="https://github.com/Tim948" target="_blank">
+    <img height="50" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 <br/>
 
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/Tim948/Tim948/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://komarev.com/ghpvc/?username=Tim948&label=Profile%20Views&color=00f2ff&style=flat-square" />
 </div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tim948&label=Profile%20Views&color=00f2ff&style=flat" alt="Views" />
-</div>
-
-<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00f2ff&height=2&section=footer" width="100%"/>
