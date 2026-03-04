@@ -1,0 +1,91 @@
+<svg width="100%" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* Определяем шрифты и цвета */
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Share+Tech+Mono&display=swap');
+
+    .bg { fill: #0d1117; } /* Фон GitHub Dark */
+    .neon-blue { stroke: #00f2ff; stroke-width: 2; filter: drop-shadow(0 0 5px #00f2ff); }
+    .neon-pink { stroke: #ff0055; stroke-width: 1.5; filter: drop-shadow(0 0 3px #ff0055); opacity: 0.7; }
+
+    /* Стили для текста */
+    .text-base {
+      font-family: 'Orbitron', sans-serif;
+      font-weight: 700;
+      font-size: 50px;
+      text-transform: uppercase;
+      letter-spacing: 5px;
+    }
+
+    /* Эффект Глитч для основного текста */
+    .glitch-text {
+      fill: #fff;
+      text-shadow: 
+        2px 0 #00f2ff,
+        -2px 0 #ff0055;
+      animation: glitch 3s infinite;
+    }
+
+    /* Анимация помех (Glitch) */
+    @keyframes glitch {
+      0% { text-shadow: 2px 0 #00f2ff, -2px 0 #ff0055; transform: translate(0); }
+      2% { text-shadow: 4px 0 #00f2ff, -4px 0 #ff0055; transform: translate(-2px, 2px); }
+      4% { text-shadow: 2px 0 #00f2ff, -2px 0 #ff0055; transform: translate(0); }
+      60% { text-shadow: 2px 0 #00f2ff, -2px 0 #ff0055; transform: translate(0); opacity: 1; }
+      61% { text-shadow: 10px 0 #00f2ff, -10px 0 #ff0055; transform: translate(4px, -2px); opacity: 0.8; }
+      62% { text-shadow: 2px 0 #00f2ff, -2px 0 #ff0055; transform: translate(0); opacity: 1; }
+      100% { text-shadow: 2px 0 #00f2ff, -2px 0 #ff0055; transform: translate(0); }
+    }
+
+    /* Стили для подзаголовка */
+    .sub-text {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 18px;
+      fill: #a0a0a0;
+      letter-spacing: 2px;
+    }
+
+    /* Анимация сканирующей линии */
+    @keyframes scan {
+      0% { transform: translateY(-200px); }
+      100% { transform: translateY(200px); }
+    }
+
+    /* Анимация мерцания линий */
+    @keyframes flicker {
+      0%, 100% { opacity: 1; }
+      41% { opacity: 1; }
+      42% { opacity: 0.3; }
+      43% { opacity: 1; }
+      48% { opacity: 1; }
+      49% { opacity: 0.3; }
+      50% { opacity: 1; }
+    }
+
+    .flicker-line { animation: flicker 5s infinite; }
+
+  </style>
+
+  <rect class="bg" width="800" height="200" rx="10"/>
+
+  <g class="flicker-line">
+    <path class="neon-blue" d="M 50 20 L 750 20 L 770 40 L 770 160 L 750 180 L 50 180 L 30 160 L 30 40 Z" fill="none"/>
+    <path class="neon-pink" d="M 70 30 L 730 30 L 750 50 L 750 150 L 730 170 L 70 170 L 50 150 L 50 50 Z" fill="none"/>
+  </g>
+
+  <line class="neon-blue" x1="0" y1="0" x2="800" y2="0" opacity="0.2">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="0 200" dur="4s" repeatCount="indefinite" />
+  </line>
+
+  <text x="400" y="105" text-anchor="middle" class="text-base glitch-text">
+    <tspan dx="0">TIM</tspan><tspan dx="5">948</tspan>
+  </text>
+
+  <text x="400" y="145" text-anchor="middle" class="sub-text">
+    &gt; Go Backend Engineer // System Architect
+  </text>
+  
+  <path d="M 30 40 L 50 20 L 30 20 Z" fill="#ff0055" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0.2;0.8" dur="2s" repeatCount="indefinite" />
+  </path>
+
+</svg>
