@@ -10,24 +10,28 @@
 
 ---
 
-### 🚀 Обо мне (System Log)
+### 🚀 System Log (Обо мне)
+<p align="center">
+<img src="https://my-github-status-gifs-theta.vercel.app/api/status-gif?user=Tim948" width="100%" />
+</p>
+
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Текущая активность</h4>
+    <td width="55%" valign="top">
+      <h4>💻 Текущий статус</h4>
       <ul>
         <li><b>Проект:</b> Высоконагруженные микросервисы (Go)</li>
         <li><b>Фокус:</b> Архитектура, оптимизация БД, gRPC</li>
         <li><b>Локация:</b> Уфа, Россия 📍</li>
       </ul>
-      <h4>🎓 Академический статус</h4>
+      <h4>🎓 Образование</h4>
       <ul>
-        <li><b>УГНТУ:</b> Магистратура (Информационные технологии)</li>
+        <li><b>УГНТУ:</b> Магистратура (IT)</li>
         <li><b>Выпуск:</b> Июль 2026</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5oPAn46G6C1N7j54H/giphy.gif" width="100%" style="border-radius:10px; border: 1px solid #00f2ff;" />
+    <td width="45%" valign="center" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueGZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5oPAn46G6C1N7j54H/giphy.gif" width="100%" style="border-radius:15px;" />
     </td>
   </tr>
 </table>
@@ -36,37 +40,37 @@
 
 ### 🛠 Мой Технологический Стек
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,cs,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,githubactions,linux,git,postman,visualstudio,vscode&perline=5" width="100%" />
+  <img src="https://skillicons.dev/icons?i=go,cs,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,githubactions,linux,git,postman,visualstudio,vscode&perline=8" width="100%" />
 </p>
 
 ---
 
-### 🏆 Достижения & Трофеи
+### 🏆 Achievements (Трофеи)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tim948&theme=tokyonight&no-bg=true&margin-w=15&column=5" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tim948&theme=tokyonight&no-bg=false&margin-w=15&column=5" width="100%" />
 </p>
 
 <table align="center">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Tim948&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff&icon_color=00f2ff" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Tim948&show_icons=true&theme=tokyonight&hide_border=false&title_color=00f2ff&icon_color=00f2ff" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim948&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim948&layout=compact&theme=tokyonight&hide_border=false&title_color=00f2ff" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 Аналитика Активности
+### 📊 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tim948&theme=react-dark&hide_border=true&area=true&color=00f2ff" width="100%" />
 </p>
 
 ---
 
-### 💬 Связаться со мной
+### 💬 Connect
 <p align="center">
   <a href="https://t.me/ElegantCoderByte" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -79,9 +83,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
-</p>
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Tim948&label=System%20Accesses&color=00f2ff&style=flat-square" />
