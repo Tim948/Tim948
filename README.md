@@ -1,84 +1,102 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" />
-  <b>Hi, I'm <samp>Danil Yamanaev</samp></b>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="45px"/>
+  <b>Hello, I'm <samp>Danil</samp></b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45px" />
 </h1>
 
 <p align="center">
-  <a href="https://t.me/ElegantCoderByte"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://vk.com/ne_ydachi"><img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=220&section=header&text=Go%20Backend%20Engineer&fontSize=60&animation=fadeIn&fontAlignY=38&desc=System%20Architect%20//%20Tim948&descSize=23&descAlignY=62" width="100%" />
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=200&section=header&text=Go%20Backend%20Developer&fontSize=50&animation=fadeIn&fontAlignY=38" />
-</div>
-
-<br/>
 
 <table align="center">
   <tr>
-    <td valign="top" width="50%">
-      <h3>─── ⚡ Обо мне ───</h3>
+    <td valign="top" width="55%">
+      <h3>─── ⚡ System Specs ───</h3>
       <ul>
-        <li>🔭 Сейчас пишу на: <b>Go (Golang)</b></li>
-        <li>🎓 Магистр <b>УГНТУ</b> (выпуск 07.2026)</li>
-        <li>💻 Специализация: <b>Backend & Highload</b></li>
-        <li>💬 Спроси меня о: <b>Микросервисах, SQL и gRPC</b></li>
+        <li>🔭 Сейчас работаю над: <b>Высоконагруженными микросервисами на Go</b></li>
+        <li>🌱 Изучаю: <b>Kubernetes internals и Kafka streams</b></li>
+        <li>🎓 Образование: <b>Магистратура УГНТУ</b> (выпуск 07.2026г.)</li>
+        <li>💬 Ask Me About: <b>Go, PostgreSQL, Redis, gRPC</b></li>
+        <li>😄 Никнейм: <b>Tim948</b></li>
       </ul>
     </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Tim948&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
+    <td valign="top" width="45%">
+      <img align="right" height="230" width="100%" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZuejYxdmI2Njh5MW9yY2t0bDJ4YTB3ZmpsZXE5NmR0YWd1dGxyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5oPAn46G6C1N7j54H/giphy.gif"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-### 🛠 Технологический стек
+<h3>─── 🛠 Технологический Арсенал ───</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"/></code>
+  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c-sharp/c-sharp.png"/></code>
+  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/></code>
+  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/></code>
+  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/></code>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/></code>
+  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"/></code>
+  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"/></code>
+  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kafka/kafka.png"/></code>
+  <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></code>
 </p>
 
-#
+# <details open>
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend">📈</g-emoji>
+  <strong>Github Stats & Metrics:</strong>
+</summary>
+<br/>
 
-### 📊 Активность
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tim948&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim948&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tim948&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff&icon_color=00f2ff&count_private=true&include_all_commits=true" />
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim948&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff&langs_count=10" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tim948&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
-#
-
-<div align="center">
-  <h3>🐍 Контроль змеиного кода</h3>
-  <img src="https://raw.githubusercontent.com/Tim948/Tim948/output/github-contribution-grid-snake.svg" alt="Snake" />
-</div>
+</details>
 
 <br/>
 
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=Tim948&theme=react-dark&hide_border=true&area=true&color=00f2ff)
+
+#
+
+<h1 align="center">
+  Connect With Me
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" height="35px"/>
+</h1>
+
+<p align="center">
+  <br>
+  <a href="https://t.me/ElegantCoderByte" target="_blank">
+    <code><img height="70" width="70" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg"/></code>
+  </a>
+  <a href="https://vk.com/ne_ydachi" target="_blank">
+    <code><img height="70" width="70" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vk.svg"/></code>
+  </a>
+  <a href="#" target="_blank">
+    <code><img height="70" width="70" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"/></code>
+  </a>
+</p>
+<br/>
+
 <div align="center">
-  <code>while( ! (succeed = try() ) );</code>
-  <br/>
+  <h3>🐍 Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/Tim948/Tim948/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Tim948&label=Profile%20Views&color=00f2ff&style=flat" alt="Views" />
 </div>
+
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00f2ff&height=2&section=footer" width="100%"/>
