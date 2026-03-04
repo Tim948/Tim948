@@ -10,9 +10,9 @@ Here's some fun facts about me:
 - 🌱 Learning **Microservices Architecture & Kubernetes**
 - 👯 Looking to collaborate on **high‑performance Go projects**
 - 💬 Ask me about **Go, SQL, gRPC, Redis**
-- 😄 Pronouns: **He/Him**
+
 - ⚡ Fun fact: **Master's student at USPTU (2026)**
-- ⚽ Love football (soccer) and open‑source
+- ❤️ Remote work 🏡, sports cars 🏎️, clean code 💻, and beautiful company 👥
 
 -----
 
@@ -65,12 +65,6 @@ Technologies I work with:
 
 ---
 
-Some of my repositories:
-
-- **[Tim948/Tim948](https://github.com/Tim948/Tim948)** – this profile repo
-- **[Tim948/go‑microservice‑template](https://github.com/Tim948/go-microservice-template)** – template for Go microservices (if exists)
-- **[Tim948/grpc‑example](https://github.com/Tim948/grpc-example)** – gRPC examples in Go
-- *Add your own repos here*
 
 ---
 
