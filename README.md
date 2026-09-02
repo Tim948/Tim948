@@ -1,6 +1,6 @@
 
 
-<h3 align="center"> Hello World 👋🏼 I'm Tim948, Backend Developer 💓 </h3>
+<h3 align="center"> Hello World 👋🏼 I'm Tim948, Backend and ML Developer 💓 </h3>
 
 ----
 
