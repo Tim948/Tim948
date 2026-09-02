@@ -1,5 +1,3 @@
-
-
 <h3 align="center"> Hello World 👋🏼 I'm Tim948, Backend and ML Developer 💓 </h3>
 
 ----
@@ -8,8 +6,9 @@ Here's some fun facts about me:
 
 - 🔭 I’m currently building high‑load systems in **Go (Golang)**
 - 🌱 Learning **Microservices Architecture & Kubernetes**
+- 🧠 Now diving into **Machine Learning & AI** (Python, TensorFlow, PyTorch)
 - 👯 Looking to collaborate on **high‑performance Go projects**
-- 💬 Ask me about **Go, SQL, gRPC, Redis**
+- 💬 Ask me about **Go, SQL, gRPC, Redis, ML pipelines**
 
 - ⚡ Fun fact: **Master's student at USPTU (2026)**
 - ❤️ Remote work 🏡, sports cars 🏎️, clean code 💻, and beautiful company 👥
@@ -54,6 +53,10 @@ Technologies I work with:
 
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -68,12 +71,6 @@ Technologies I work with:
 
 ---
 
-<!-- Если у тебя есть аккаунт Codewars, раскомментируй и замени username -->
-<!-- 
-My Codewars Stats:
-
-<img src= "https://www.codewars.com/users/Tim948/badges/micro" width= "200"/>
--->
 
 ---
 
